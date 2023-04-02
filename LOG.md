@@ -2,5 +2,6 @@
 
 ## 2023-04-02
 
-- 🎉 init: project
+- 🎉 init
+- ✨ hello-world
 
