@@ -66,5 +66,6 @@
 
 ## 2023-05-22
 
--  ✨ time
+- ✨ time 
+- ✨ websockets
 
